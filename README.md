@@ -13,7 +13,7 @@ I am a young researcher specializing in **Radio Astronomy** and **Data Analysis*
 * **Specialties:** Radio Astronomy, Spectral Energy Distribution (SED) Modeling, Broadband SED Analysis, AGN Variability Analysis, and Remote Sensing
 
 ### 📂 Featured Project
-**SED Analysis(https://github.com/elizabethww/SED-Analysis)** Polynomial spectral models of radio calibrators across 80MHz - 4.8GHz frequencies.
+**SED Analysis (https://github.com/elizabethww/SED-Analysis)** Polynomial spectral models of radio calibrators across 80MHz - 4.8GHz frequencies.
 
 ### 📫 Connect with me
 * **LinkedIn:** http://www.linkedin.com/in/elizabeth-kamau-656400191
