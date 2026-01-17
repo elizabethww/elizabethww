@@ -20,10 +20,10 @@ I am a young researcher specializing in **Radio Astronomy** and **Data Analysis*
 ### 📫 Connect with me
 * **LinkedIn:** http://www.linkedin.com/in/elizabeth-kamau-656400191
 * **Email:** elizabethww33@gmail.com
-* **MSc Portfolio:** https://elizabethww33.my.canva.site/
 
 <!--
 **elizabethww/elizabethww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **MSc Portfolio:** https://elizabethww33.my.canva.site/
 
 Here are some ideas to get you started:
 
