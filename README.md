@@ -12,8 +12,10 @@ I am a young researcher specializing in **Radio Astronomy** and **Data Analysis*
 * **Astronomy Tools:** CASA, WSClean, CARTA, Latex
 * **Specialties:** Radio Astronomy, Spectral Energy Distribution (SED) Modeling, Broadband SED Analysis, AGN Variability Analysis, and Remote Sensing
 
-### 📂 Featured Project
+### 📂 Featured Projects
 **SED Analysis (https://github.com/elizabethww/SED-Analysis)** Polynomial spectral models of radio calibrators across 80MHz - 4.8GHz frequencies.
+
+**STV Analysis (https://github.com/elizabethww/Phase_Cal_STV.git)** PKS J2152-2828 STV Analysis (MeerKAT)
 
 ### 📫 Connect with me
 * **LinkedIn:** http://www.linkedin.com/in/elizabeth-kamau-656400191
