@@ -1,6 +1,6 @@
 ## Hi, I'm Elizabeth 👋
 ### About Me
-I am a young researcher specializing in **Radio Astronomy** and **Data Analysis**. I enjoy turning complex data into clear insights.
+I am a researcher specializing in **Astronomy** and **Astrophysics**. I enjoy turning complex data into clear insights.
 
 ### 🚀 Skills
 * **Languages and Libraries:**
