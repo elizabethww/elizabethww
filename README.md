@@ -9,7 +9,7 @@ I am a researcher specializing in **Astronomy** and **Astrophysics**. I enjoy tu
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-* **Astronomy Tools:** CASA, WSClean, CARTA, Latex
+* **Astronomy Tools:** CASA, WSClean, CARTA, LaTeX
 * **Specialties:** Radio Astronomy, Spectral Energy Distribution (SED) Modeling, Broadband SED Analysis, AGN Variability Analysis, and Remote Sensing
 
 ### 📂 Featured Projects
@@ -20,6 +20,10 @@ I am a researcher specializing in **Astronomy** and **Astrophysics**. I enjoy tu
 ### 📫 Connect with me
 * **LinkedIn:** http://www.linkedin.com/in/elizabeth-kamau-656400191
 * **Email:** elizabethww33@gmail.com
+
+### 📂 Currently working on:
+* AI/ML Astronomy Course: SciPy, Scikit-learn, PCA, XAI
+* Long-term Calibrator Variability Analysis Paper - Based on my MSc thesis (https://doi.org/10.5281/zenodo.19497959)
 
 <!--
 **elizabethww/elizabethww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
