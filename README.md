@@ -17,11 +17,13 @@ I am a researcher specializing in **Astronomy** and **Astrophysics**. I enjoy tu
 
 **STV Analysis (https://github.com/elizabethww/Phase_Cal_STV.git)** PKS J2152-2828 STV Analysis (MeerKAT)
 
+**NEO 2016 SA2 Trajectory Analysis**
+
 ### 📫 Connect with me
 * **LinkedIn:** http://www.linkedin.com/in/elizabeth-kamau-656400191
 * **Email:** elizabethww33@gmail.com
 
-### 📂 Currently working on:
+### 🔭 I’m currently working on:
 * AI/ML Astronomy Course: SciPy, Scikit-learn, PCA, XAI
 * Long-term Calibrator Variability Analysis Paper - Based on my MSc thesis (https://doi.org/10.5281/zenodo.19497959)
 
