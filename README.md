@@ -1,6 +1,8 @@
 ## Hi, I'm Elizabeth 👋
 ### About Me
-I am a researcher specializing in **Astronomy** and **Astrophysics**. I enjoy turning complex data into clear insights.
+I am a researcher with a background in astronomy and astrophysics.
+
+My innate curiosity and wonder about the natural world drive me to pursue research that applies cutting-edge computational methods to real-world societal challenges and Astronomy.
 
 ### 🚀 Skills
 * **Languages and Libraries:**
@@ -10,7 +12,7 @@ I am a researcher specializing in **Astronomy** and **Astrophysics**. I enjoy tu
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 * **Astronomy Tools:** CASA, WSClean, CARTA, LaTeX
-* **Specialties:** Radio Astronomy, Spectral Energy Distribution (SED) Modeling, Broadband SED Analysis, AGN Variability Analysis, and Remote Sensing
+* **Specialties:** Data Science, Radio Astronomy, Broadband SED Analysis, AGN Variability, and Remote Sensing
 
 ### 📂 Featured Projects
 **SED Analysis (https://github.com/elizabethww/SED-Analysis)** Polynomial spectral models of radio calibrators across 80MHz - 4.8GHz frequencies.
@@ -24,7 +26,8 @@ I am a researcher specializing in **Astronomy** and **Astrophysics**. I enjoy tu
 * **Email:** elizabethww33@gmail.com
 
 ### 🔭 I’m currently working on:
-* AI/ML Astronomy Course: SciPy, Scikit-learn, PCA, XAI
+* World Quant University Data Science Lab (Data Science and ML concepts)
+* AI concepts: Training a small language model through Google DeepMind's AI Research Foundations Course
 * Long-term Calibrator Variability Analysis Paper - Based on my MSc thesis (https://doi.org/10.5281/zenodo.19497959)
 
 <!--
