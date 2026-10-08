@@ -28,7 +28,7 @@ My innate curiosity and wonder about the natural world drive me to pursue resear
 ###🌱 I’m currently learning 
 * World Quant University Data Science Lab (Data Science and ML concepts)
 * AI concepts: Training a small language model through Google DeepMind's AI Research Foundations Course
-* 
+  
 ### 🔭 I’m currently working on:
 * Long-term Calibrator Variability Analysis Paper - Based on my MSc thesis (https://doi.org/10.5281/zenodo.19497959)
 
