@@ -1,6 +1,6 @@
 ## Hi, I'm Elizabeth 👋
 ### About Me
-I am a researcher with a background in astronomy and astrophysics.
+I am a researcher with a background in Astronomy and Astrophysics.
 
 My innate curiosity and wonder about the natural world drive me to pursue research that applies cutting-edge computational methods to real-world societal challenges and Astronomy.
 
@@ -11,8 +11,8 @@ My innate curiosity and wonder about the natural world drive me to pursue resear
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-* **Astronomy Tools:** CASA, WSClean, CARTA, LaTeX
-* **Specialties:** Data Science, Radio Astronomy, Broadband SED Analysis, AGN Variability, and Remote Sensing
+* **Tools:** CASA, WSClean, CARTA, LaTeX
+* **Specialties:** Data Science, Radio Astronomy, SED Modeling, AGN Variability, and Remote Sensing
 
 ### 📂 Featured Projects
 **SED Analysis (https://github.com/elizabethww/SED-Analysis)** Polynomial spectral models of radio calibrators across 80MHz - 4.8GHz frequencies.
@@ -25,9 +25,11 @@ My innate curiosity and wonder about the natural world drive me to pursue resear
 * **LinkedIn:** http://www.linkedin.com/in/elizabeth-kamau-656400191
 * **Email:** elizabethww33@gmail.com
 
-### 🔭 I’m currently working on:
+###🌱 I’m currently learning 
 * World Quant University Data Science Lab (Data Science and ML concepts)
 * AI concepts: Training a small language model through Google DeepMind's AI Research Foundations Course
+* 
+### 🔭 I’m currently working on:
 * Long-term Calibrator Variability Analysis Paper - Based on my MSc thesis (https://doi.org/10.5281/zenodo.19497959)
 
 <!--
